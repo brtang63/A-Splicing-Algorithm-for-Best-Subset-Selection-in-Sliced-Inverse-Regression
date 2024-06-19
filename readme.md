@@ -17,7 +17,7 @@ This repository contains codes for simulation and real data analysis described i
 
 - LASSO-SIR: Implemented in R package `LassoSIR` (0.1.1).
 
-**Note:** Comparison with the *Relaxed Natural SSIR* method is omitted in this repository because the authors' codes are not publicly available. They may be requested from the authors. 
+**Note:** Comparison with the [Relaxed Natural SSIR](https://doi.org/10.1214/18-AOS1791) method is omitted in this repository because the codes are not publicly available. They may be requested from the authors. 
 
 ## Results
 
